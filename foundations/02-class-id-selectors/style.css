@@ -1,0 +1,16 @@
+.first{
+    background-color: rgb(255, 167, 167);
+    font-family:Verdana, "DejaVu Sans", sans-serif ; 
+}
+.chp{
+    font-size: 24px;
+}
+
+#second{
+    color: #0000ff;
+}
+#fourth{
+    background-color: #8ceca1;
+    font-size: 24px;
+    font-weight: bold;
+}
